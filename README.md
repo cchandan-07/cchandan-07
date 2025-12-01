@@ -1,7 +1,9 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cchandan-07/Chandan-Kumar/main/git%20profil%20pic.png" width="900px" alt="Chandan Kumar Banner"/>
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/cchandan-07/cchandan-07/main/git%20profil%20pic.png" width="100%">
 </p>
+
 
 
 ---
